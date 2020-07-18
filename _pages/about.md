@@ -1,5 +1,5 @@
 ---
-title: "Start here"
+title: "About"
 permalink: /about/
 header:
 ---
