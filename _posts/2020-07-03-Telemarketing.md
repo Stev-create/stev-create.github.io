@@ -76,7 +76,7 @@ Dikarenakan data termasuk kategori <i>highly-imbalanced</i>, dan menurut saya in
 | XGBoost Classifier  (experiment 1 with SMOTE) | 0.701783    |  	0.742834   | 0.678390   |  0.416265   |
 | XGBoost Classifier (experiment 2 with SMOTE) | 0.705274    |  	0.746266   | 0.681643   |  0.423000   |
 
-Catatan : Terdapat dua eksperimen pada model Random Forest dan XGBoost, itu dikarenakan hasil dari RandomizedSearchCV yang saya dapat masih mengalami overfitting. Jadi saya putuskan untuk mentuningnya ulang. 
+Catatan: Terdapat dua eksperimen pada model Random Forest dan XGBoost, itu dikarenakan hyperparameter yang diberikan RandomizedSearchCV masih membuat model mengalami <b>overfitting</b>. Itu kenapa saya melakukan eksperimen menggunakan bantuan Validation Curve dan pengetahuan saya tentang hyperparameter-hyperparameter pada model Random Forest dan Xtreme Gradient Boosting.  
 
 Model terbaik ada di antara Random Forest Classifier  (experiment 2 with SMOTE)  dan XGBoost Classifier  (experiment 2 with SMOTE). Kemudian project ini masuk ke adjusting threshold yang dimana, saya lebih melihatnya dari segi bisnis. Dimana saya ingin model yang punya recall tinggi atau False Negative (FN) yang rendah. Dan pada akhirnya, threshold yang digunakan adalah 0.33 dengan Random Forest Classifier  (experiment 2 with SMOTE) adalah model terbaik. Ini precision-recall curve untuk model Random Forest Classifier  (experiment 2 with SMOTE):
 
