@@ -52,7 +52,9 @@ Dari eksplorasi dapat disimpulkan bahwa:
 ![GitHub Logo](/images/bank2.png)
 
 
-* Dari segi <i>socio-economics</i>, di dataset ini peluang orang-orang melakukan deposito lebih tinggi saat Euribor rendah, CCI rendah, CPI rendah, Jumlah pegawai bank rendah, dan tingkat variasi pada pegawai bank rendah. Sebetulnya ini dapat dijadikan diskusi, mengingat ternyata peluang orang-orang melakukan deposito lebih tinggi saat Euribor rendah. Kenapa? Karena Euribor adalah alat yang biasa dipakai bank untuk menentukan suatu suku bunga, suku bunga deposito maupun suku bunga pinjaman. Jadi terlihat adanya kejanggalan, melihat saat Euribor rendah yang artinya suku bunga deposito rendah, tapi malah peluang orang-orang melakukan deposito lebih tinggi saat Euribor merendah. 
+* Dari segi <i>socio-economics</i>, di dataset ini peluang orang-orang melakukan deposito lebih tinggi saat Euribor rendah, CCI rendah, CPI rendah, Jumlah pegawai bank rendah, dan tingkat variasi pada pegawai bank rendah. Sebetulnya ini dapat dijadikan diskusi, mengingat ternyata peluang orang-orang melakukan deposito lebih tinggi saat Euribor rendah. Kenapa? Karena Euribor adalah alat yang biasa dipakai bank untuk menentukan suatu suku bunga, suku bunga deposito maupun suku bunga pinjaman. Jadi terlihat adanya kejanggalan, melihat saat Euribor rendah yang artinya suku bunga deposito rendah, tapi malah peluang orang-orang melakukan deposito lebih tinggi saat Euribor merendah. Yang distribusinya dapat dilihat di bawah:
+
+![GitHub Logo](/images/bank3.png)
 
 Untuk lebih lengkapnya ada di [notebook ini](https://github.com/Stev-create/Bank-Telemarketing-Analysis---ML-Classification/blob/master/notebook/1.%20Data%20cleaning%20and%20exploratory%20analysis.ipynb).
 
