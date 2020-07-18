@@ -13,7 +13,7 @@ Ini adalah Final Project Purwadhika untuk Program Data Science dan Machine Learn
 
 ## Overview
 
-Pada repo ini terbagi menjadi lima bagian:
+Project ini terbagi menjadi lima bagian:
 
 1. Data cleaning and exploratory analysis
 2. Modelling
