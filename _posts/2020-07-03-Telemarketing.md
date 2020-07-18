@@ -11,10 +11,6 @@ mathjax: "true"
 
 Ini adalah Final Project Purwadhika untuk Program Data Science dan Machine Learning. Dimana data didapatkan dari UCI yang dapat diaskes secara publik di [sini](https://archive.ics.uci.edu/ml/datasets/bank+marketing). Project ini menggunakan <b>Logistic Regression, Random Forest Classifier, dan XGBoost Classifier</b>, dilakukan juga resampling menggunakan <b>SMOTE dan Near-miss Algorithm.</b> 
 
-h2> Source Dataset: https://archive.ics.uci.edu/ml/datasets/bank+marketing </h2><p>[Moro et al., 2014] S. Moro, P. Cortez and P. Rita. A Data-Driven Approach to Predict the Success of Bank Telemarketing. Decision Support Systems, Elsevier, 62:22-31, June 2014</p>
-
-Project ini menggunakan <b>Logistic Regression, Random Forest Classifier, dan XGBoost Classifier</b>, kemudian dilakukan juga resampling menggunakan <b>SMOTE dan Near-miss Algorithm.</b> 
-
 ## Overview
 
 Pada repo ini terbagi menjadi lima bagian:
