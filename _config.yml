@@ -87,7 +87,7 @@ analytics:
 # Site Author
 author:
   name             : "Stevanus Setiawan"
-  avatar           : "/images/bio-pic-2.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/images/pp.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "\"If you torture the data long enough, it will confess to anything.\"<br> - Ronald H. Coase"
   location         : "Jakarta, Indonesia"
   email            : "stevsetiawann@gmail.com"
