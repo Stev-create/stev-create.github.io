@@ -1,10 +1,9 @@
 ---
 title: "About"
 permalink: /about/
-header:
 ---
 
-<h2>Hi there, I'm Stev.</h2>
+<h2>Hi there, I'm Stev 👋</h2>
 
 Well, I see myself as a problem solver, Data Scientist and Data Analyst who  love  to  help  companies  make  sense  of  their  data  and  turn their  data  into  actionable  insight, through  Data  Science  and Machine Learning. 
 
