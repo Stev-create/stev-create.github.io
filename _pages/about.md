@@ -1,6 +1,6 @@
 ---
-title: "About"
 permalink: /about/
+title: "About"
 ---
 
 <h2>Hi there, I'm Stev 👋</h2>
